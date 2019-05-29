@@ -1,0 +1,21 @@
+C:\Users\User\source\repos\Week\Week\bin\Debug\netcoreapp2.2\Week.deps.json
+C:\Users\User\source\repos\Week\Week\bin\Debug\netcoreapp2.2\Week.runtimeconfig.json
+C:\Users\User\source\repos\Week\Week\bin\Debug\netcoreapp2.2\Week.runtimeconfig.dev.json
+C:\Users\User\source\repos\Week\Week\bin\Debug\netcoreapp2.2\Week.dll
+C:\Users\User\source\repos\Week\Week\bin\Debug\netcoreapp2.2\Week.pdb
+C:\Users\User\source\repos\Week\Week\obj\Debug\netcoreapp2.2\Week.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week\Week\obj\Debug\netcoreapp2.2\Week.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Week\Week\obj\Debug\netcoreapp2.2\Week.AssemblyInfo.cs
+C:\Users\User\source\repos\Week\Week\obj\Debug\netcoreapp2.2\Week.dll
+C:\Users\User\source\repos\Week\Week\obj\Debug\netcoreapp2.2\Week.pdb
+E:\Учеба C#\shelf\shelf\Week\bin\Debug\netcoreapp2.2\Week.deps.json
+E:\Учеба C#\shelf\shelf\Week\bin\Debug\netcoreapp2.2\Week.runtimeconfig.json
+E:\Учеба C#\shelf\shelf\Week\bin\Debug\netcoreapp2.2\Week.runtimeconfig.dev.json
+E:\Учеба C#\shelf\shelf\Week\bin\Debug\netcoreapp2.2\Week.dll
+E:\Учеба C#\shelf\shelf\Week\bin\Debug\netcoreapp2.2\Week.pdb
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.csprojAssemblyReference.cache
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.csproj.CoreCompileInputs.cache
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.AssemblyInfoInputs.cache
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.AssemblyInfo.cs
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.dll
+E:\Учеба C#\shelf\shelf\Week\obj\Debug\netcoreapp2.2\Week.pdb
