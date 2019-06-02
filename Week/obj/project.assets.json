@@ -692,11 +692,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "E:\\Учеба C#\\shelf\\shelf\\Week\\Week.csproj",
       "projectName": "Week",
       "projectPath": "E:\\Учеба C#\\shelf\\shelf\\Week\\Week.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "E:\\Учеба C#\\shelf\\shelf\\Week\\obj\\",
+=======
+      "projectUniqueName": "E:\\Shelf\\shelf\\Week\\Week.csproj",
+      "projectName": "Week",
+      "projectPath": "E:\\Shelf\\shelf\\Week\\Week.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "E:\\Shelf\\shelf\\Week\\obj\\",
+>>>>>>> Stashed changes
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
