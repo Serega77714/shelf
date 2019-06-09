@@ -20,6 +20,6 @@ namespace Train1
             AmOfBag = amOfBag;
             //Comfort = comfort;
         }
-            //abstract public TrainCarCreate();
+        //abstract public TrainCarCreate();
     }
 }
