@@ -6,26 +6,14 @@ namespace Train1
 {
     class SeatCar : TrainCar
     {
-
-        public SeatCar(int trainCarNumber, string wagType, int numOfPas, int amOfBag) : base(trainCarNumber, wagType, numOfPas, amOfBag)
+      
+        public SeatCar(int trainCarNumber, string wagType, int comfort, int numOfPas, int amOfBag) : base(trainCarNumber, wagType, comfort, numOfPas, amOfBag)
         {
-            //int NumOfPas = _NumOfPas();
-            //int AmOfBag = _NumOfPas() * 50; // генерация колличества багажа: на одного пассажира 50кг
         }
-
-
-        Random _numOfPas = new Random();
-        
-        //public int _NumOfPas() // генерация колличества пассажиров
-        //{
-        //   int n = _numOfPas.Next(1, 62); // в сидячем вагоне 62 посадочных места
-        //    return n;
-        //}
-                   
-
-        public void TrainCarGetInfo()
+      
+        public override void TrainCarGetInfo()
         {
-            Console.WriteLine($"Train Car Number: { TrainCarNumber},Wag Type: { WagType}, NumOfPas : {NumOfPas}, amOfBag:{AmOfBag}");
+            Console.WriteLine($"Train Car Number: { TrainCarNumber},Wag Type: { WagType},Comfort:{Comfort} NumOfPas : {NumOfPas}, amOfBag:{AmOfBag}kg");
         }
 
 

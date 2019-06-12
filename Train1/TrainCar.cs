@@ -8,18 +8,30 @@ namespace Train1
     {
         public int TrainCarNumber { get; set; } //номер вагона
         public string WagType { get; set; } //типа вагона (сидячий(SeatCar), общий(CommonCar), плацкартный(EconClassCar), купейный(CoupeCar) , люкс(LuxCar))
-        public int NumOfPas { get; set; } //количество пассажиров
-        public int AmOfBag { get; set; }  //количество багажа
-        //private int Comfort { get; set; } //уровень комфортности
+        public int Comfort { get; set; }
+        public int NumOfPas { get; set; }
 
-        public TrainCar(int trainCarNumber, string wagType, int numOfPas, int amOfBag)
+        public int AmOfBag { get; set; }
+
+        public TrainCar(int trainCarNumber, string wagType, int comfort, int numOfPas, int amOfBag)
         {
             TrainCarNumber = trainCarNumber;
             WagType = wagType;
+            Comfort = comfort;
             NumOfPas = numOfPas;
             AmOfBag = amOfBag;
-            //Comfort = comfort;
         }
-        //abstract public TrainCarCreate();
+
+      
+
+        public abstract void TrainCarGetInfo();
+        
+        //public virtual int _NumOfPas(int max) // генерация колличества пассажиров
+        //{
+        //    Random _numOfPas = new Random();
+        //    int n = _numOfPas.Next(1, max); // в сидячем вагоне max посадочных места
+        //    return n;
+        //}
+
     }
 }
